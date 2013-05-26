@@ -11,7 +11,7 @@
 :: 		set it up with Windows Scheduler, or run it manually from console
 ::
 :: requires:
-:: 		7zip, like winzip or winrar, except that free and open source. get it here: http://www.7-zip.org/
+:: 		7zip, like winzip or winrar, except that it's free and open source. get it here: http://www.7-zip.org/
 ::		make sure 7z is in your PATH.
 ::
 :: On Github: https://github.com/lautarodragan/p4backup
